@@ -1,5 +1,9 @@
 ### Hi there 👋
-**My name is Behzad Hashemi.**  [![Img Alt Text][https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg][https://www.linkedin.com/in/b-hashemi/]]
+**My name is Behzad Hashemi.**  <br>
+
+[![Img Alt Text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/b-hashemi/) 
+[![Img Alt Text](https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Behzad-Hashemi) 
+
 - :man_student: Ph.D. student in Information Science and Technology
 - :classical_building: Université du Québec en Outaouais (located in the National Capital Region of Canada)
 - :man_technologist: Working in the field of Data Analytics and Data Science
