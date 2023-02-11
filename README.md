@@ -1,4 +1,11 @@
 ### Hi there 👋
+**My name is Behzad Hashemi.**
+- :man_student: Ph.D. student in Information Science and Technology
+- :classical_building: Université du Québec en Outaouais (located in the National Capital Region of Canada)
+
+
+
+
 
 <!--
 **Behzad-h/Behzad-h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
