@@ -1,5 +1,5 @@
 ### Hi there 👋
-**My name is Behzad Hashemi.**  [![Img Alt Text][][]]
+**My name is Behzad Hashemi.**  [![Img Alt Text][https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg][https://www.linkedin.com/in/b-hashemi/]]
 - :man_student: Ph.D. student in Information Science and Technology
 - :classical_building: Université du Québec en Outaouais (located in the National Capital Region of Canada)
 - :man_technologist: Working in the field of Data Analytics and Data Science
