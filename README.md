@@ -5,7 +5,7 @@
 [![Img Alt Text](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=iQe_BQEAAAAJ&hl=en) 
 
 - :man_student: Ph.D. student in Information Science and Technology
-- :classical_building: [Université du Québec en Outaouais](https://uqo.ca/) (Gatineau-Ottawa, Canada)
+- :classical_building: [University of Quebec in Outaouais](https://uqo.ca/) (Gatineau-Ottawa, Canada)
 - :man_technologist: Working in the field of Data Analytics and Data Science
 - :computer: Passionate about data mining, machine learning, artificial intelligence, and renewable energies
 - :page_facing_up: B.Sc. and M.Sc. in Power Electrical Engineering
