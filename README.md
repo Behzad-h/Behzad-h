@@ -6,7 +6,7 @@
 
 - :man_student: Ph.D. in Information Science and Technology
 - :classical_building: [University of Quebec in Outaouais](https://uqo.ca/) (Gatineau-Ottawa, Canada)
-- :man_technologist: Working in the field of Data Analytics and Data Science
+- :man_technologist: Working in the field of Data Analytics, Data Science, and Renewable Smart Grids
 - :computer: Passionate about data mining, machine learning, artificial intelligence, and renewable energies
 - :page_facing_up: B.Sc. and M.Sc. in Power Electrical Engineering
 - Loving: :violin: :artist: :camping: :bicyclist:
